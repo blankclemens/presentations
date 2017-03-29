@@ -1,9 +1,6 @@
 ---
-<!-- .slide: data-autoslide="10000" -->
 
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
-
-#### Get the word out test
+#### Galaxy Interactive Tours
 <br>
 <span style="color:gray">Markdown Presentations For Developers Aha</span>
 <br>
